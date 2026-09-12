@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/mishravartika005/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/mishravartika005/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mishravartika005/leetcode/tree/master/0389-find-the-difference) |
 ## String
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/mishravartika005/leetcode/tree/master/0342-power-of-four) |
+## Array
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/mishravartika005/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/mishravartika005/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
