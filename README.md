@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mishravartika005/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0835-image-overlap](https://github.com/mishravartika005/leetcode/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/mishravartika005/leetcode/tree/master/0904-fruit-into-baskets) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mishravartika005/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mishravartika005/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/mishravartika005/leetcode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
