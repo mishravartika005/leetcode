@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mishravartika005/leetcode/tree/master/0389-find-the-difference) |
 | [0904-fruit-into-baskets](https://github.com/mishravartika005/leetcode/tree/master/0904-fruit-into-baskets) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mishravartika005/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3945-digit-frequency-score](https://github.com/mishravartika005/leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/mishravartika005/leetcode/tree/master/0342-power-of-four) |
+| [3945-digit-frequency-score](https://github.com/mishravartika005/leetcode/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
 | ------- |
