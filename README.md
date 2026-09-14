@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mishravartika005/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/mishravartika005/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mishravartika005/leetcode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/mishravartika005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/mishravartika005/leetcode/tree/master/0904-fruit-into-baskets) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mishravartika005/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mishravartika005/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mishravartika005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/mishravartika005/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mishravartika005/leetcode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/mishravartika005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mishravartika005/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mishravartika005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/mishravartika005/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/mishravartika005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/mishravartika005/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
