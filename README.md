@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/mishravartika005/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mishravartika005/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mishravartika005/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mishravartika005/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mishravartika005/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mishravartika005/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/mishravartika005/leetcode/tree/master/3945-digit-frequency-score) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mishravartika005/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/mishravartika005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mishravartika005/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mishravartika005/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mishravartika005/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/mishravartika005/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mishravartika005/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/mishravartika005/leetcode/tree/master/0383-ransom-note) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mishravartika005/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mishravartika005/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mishravartika005/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mishravartika005/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/mishravartika005/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mishravartika005/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mishravartika005/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
