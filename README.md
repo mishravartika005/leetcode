@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/mishravartika005/leetcode/tree/master/0389-find-the-difference) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mishravartika005/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mishravartika005/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mishravartika005/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/mishravartika005/leetcode/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/mishravartika005/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mishravartika005/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mishravartika005/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mishravartika005/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mishravartika005/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/mishravartika005/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/mishravartika005/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mishravartika005/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mishravartika005/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mishravartika005/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
 |  |
 | ------- |
