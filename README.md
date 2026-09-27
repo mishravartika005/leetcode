@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mishravartika005/leetcode/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/mishravartika005/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/mishravartika005/leetcode/tree/master/0389-find-the-difference) |
 | [1763-longest-nice-substring](https://github.com/mishravartika005/leetcode/tree/master/1763-longest-nice-substring) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mishravartika005/leetcode/tree/master/0078-subsets) |
 | [0219-contains-duplicate-ii](https://github.com/mishravartika005/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mishravartika005/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/mishravartika005/leetcode/tree/master/0835-image-overlap) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mishravartika005/leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/mishravartika005/leetcode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
