@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mishravartika005/leetcode/tree/master/0455-assign-cookies) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mishravartika005/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mishravartika005/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/mishravartika005/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mishravartika005/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mishravartika005/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mishravartika005/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mishravartika005/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/mishravartika005/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mishravartika005/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mishravartika005/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/mishravartika005/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -157,12 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mishravartika005/leetcode/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/mishravartika005/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mishravartika005/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mishravartika005/leetcode/tree/master/0455-assign-cookies) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mishravartika005/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/mishravartika005/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mishravartika005/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
