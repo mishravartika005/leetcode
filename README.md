@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mishravartika005/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mishravartika005/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mishravartika005/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mishravartika005/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3945-digit-frequency-score](https://github.com/mishravartika005/leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mishravartika005/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/mishravartika005/leetcode/tree/master/0389-find-the-difference) |
 | [1763-longest-nice-substring](https://github.com/mishravartika005/leetcode/tree/master/1763-longest-nice-substring) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mishravartika005/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mishravartika005/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/mishravartika005/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mishravartika005/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mishravartika005/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/mishravartika005/leetcode/tree/master/0835-image-overlap) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mishravartika005/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
 | ------- |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/mishravartika005/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mishravartika005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mishravartika005/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mishravartika005/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
