@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/mishravartika005/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mishravartika005/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/mishravartika005/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/mishravartika005/leetcode/tree/master/0647-palindromic-substrings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mishravartika005/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mishravartika005/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1763-longest-nice-substring](https://github.com/mishravartika005/leetcode/tree/master/1763-longest-nice-substring) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mishravartika005/leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/mishravartika005/leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mishravartika005/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0647-palindromic-substrings](https://github.com/mishravartika005/leetcode/tree/master/0647-palindromic-substrings) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mishravartika005/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mishravartika005/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mishravartika005/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/mishravartika005/leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/mishravartika005/leetcode/tree/master/0455-assign-cookies) |
+| [0647-palindromic-substrings](https://github.com/mishravartika005/leetcode/tree/master/0647-palindromic-substrings) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/mishravartika005/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mishravartika005/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
