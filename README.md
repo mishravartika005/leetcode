@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mishravartika005/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/mishravartika005/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mishravartika005/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/mishravartika005/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mishravartika005/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/mishravartika005/leetcode/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/mishravartika005/leetcode/tree/master/0457-circular-array-loop) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/mishravartika005/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mishravartika005/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mishravartika005/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mishravartika005/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mishravartika005/leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/mishravartika005/leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mishravartika005/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0410-split-array-largest-sum](https://github.com/mishravartika005/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/mishravartika005/leetcode/tree/master/0647-palindromic-substrings) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mishravartika005/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mishravartika005/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mishravartika005/leetcode/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/mishravartika005/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/mishravartika005/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/mishravartika005/leetcode/tree/master/0860-lemonade-change) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mishravartika005/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/mishravartika005/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mishravartika005/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mishravartika005/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Geometry
