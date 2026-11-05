@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/mishravartika005/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/mishravartika005/leetcode/tree/master/0078-subsets) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishravartika005/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mishravartika005/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/mishravartika005/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0275-h-index-ii](https://github.com/mishravartika005/leetcode/tree/master/0275-h-index-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishravartika005/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/mishravartika005/leetcode/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/mishravartika005/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mishravartika005/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishravartika005/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/mishravartika005/leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/mishravartika005/leetcode/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/mishravartika005/leetcode/tree/master/0457-circular-array-loop) |
