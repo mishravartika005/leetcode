@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mishravartika005/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/mishravartika005/leetcode/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/mishravartika005/leetcode/tree/master/0457-circular-array-loop) |
+| [0494-target-sum](https://github.com/mishravartika005/leetcode/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/mishravartika005/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/mishravartika005/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mishravartika005/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mishravartika005/leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mishravartika005/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/mishravartika005/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/mishravartika005/leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/mishravartika005/leetcode/tree/master/0647-palindromic-substrings) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mishravartika005/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mishravartika005/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mishravartika005/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/mishravartika005/leetcode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/mishravartika005/leetcode/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -307,4 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mishravartika005/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/mishravartika005/leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/mishravartika005/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
