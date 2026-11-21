@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/mishravartika005/leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/mishravartika005/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mishravartika005/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/mishravartika005/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mishravartika005/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1763-longest-nice-substring](https://github.com/mishravartika005/leetcode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mishravartika005/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mishravartika005/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/mishravartika005/leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/mishravartika005/leetcode/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/mishravartika005/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mishravartika005/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mishravartika005/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mishravartika005/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mishravartika005/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/mishravartika005/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
