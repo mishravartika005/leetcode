@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/mishravartika005/leetcode/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/mishravartika005/leetcode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mishravartika005/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/mishravartika005/leetcode/tree/master/0507-perfect-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mishravartika005/leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/mishravartika005/leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mishravartika005/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0279-perfect-squares](https://github.com/mishravartika005/leetcode/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/mishravartika005/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/mishravartika005/leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/mishravartika005/leetcode/tree/master/0647-palindromic-substrings) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/mishravartika005/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mishravartika005/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mishravartika005/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/mishravartika005/leetcode/tree/master/0279-perfect-squares) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mishravartika005/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mishravartika005/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/mishravartika005/leetcode/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/mishravartika005/leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
@@ -332,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/mishravartika005/leetcode/tree/master/1143-longest-common-subsequence) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/mishravartika005/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
